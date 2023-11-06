@@ -1,0 +1,1 @@
+export const BASE_URL = "https://bookingapi-production-79a8.up.railway.app"
